@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Temperature Converter</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="container">
+    <h1>Temperature Converter</h1>
+    <input type="number" id="celsius" placeholder="Enter temperature in Celsius">
+    <input type="number" id="fahrenheit" placeholder="Enter temperature in Fahrenheit">
+    <input type="number" id="kelvin" placeholder="Enter temperature in Kelvin">
+    <button type="button" id="convert">Convert</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
